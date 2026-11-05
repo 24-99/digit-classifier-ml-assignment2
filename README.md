@@ -27,10 +27,10 @@ This project trains five classical classifiers on the same dataset, evaluates th
 **Metric averaging (multi-class):** Precision, Recall and F1 are macro-averaged; AUC is one-vs-rest macro-averaged using predicted probabilities; MCC is the multi-class generalisation.
 
 ## c. GitHub repository link
+GitHub repository: [https://github.com/24-99/digit-classifier-ml-assignment2](https://github.com/24-99/digit-classifier-ml-assignment2)
+ 
+Live app: [https://digit-classifier-ml-assignment2-vzreevfwcxscqekzt2cpdv.streamlit.app/](https://digit-classifier-ml-assignment2-vzreevfwcxscqekzt2cpdv.streamlit.app/)
 
-`https://github.com/24-99/digit-classifier-ml-assignment2`
-
-Live app: `https://digit-classifier-ml-assignment2-vzreevfwcxscqekzt2cpdv.streamlit.app/`
 
 ```
 digit-classifier-lab/
