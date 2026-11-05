@@ -28,7 +28,8 @@ This project trains five classical classifiers on the same dataset, evaluates th
 
 ## c. GitHub repository link
 
-`<PASTE YOUR GITHUB REPO URL HERE>`
+`GitHub: GitHub - 24-99/digit-classifier-ml-assignment2: Comparison of 5 ML classifiers (Logistic Regression,…
+Live app: https://digit-classifier-ml-assignment2-vzreevfwcxscqekzt2cpdv.streamlit.app/`
 
 Live app: `<PASTE YOUR STREAMLIT COMMUNITY CLOUD URL HERE>`
 
